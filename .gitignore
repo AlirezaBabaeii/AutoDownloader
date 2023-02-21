@@ -1,0 +1,6 @@
+/node_modules
+*.rar
+*.zip
+yarn.*
+yarn.lock
+yarn-error.log
